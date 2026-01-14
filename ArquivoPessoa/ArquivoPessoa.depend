@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1667238549 source:c:\users\arthu\onedrive\documentos\exemplo de aula\arquivopessoa\src\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+
+1667238549 c:\users\arthu\onedrive\documentos\exemplo de aula\arquivopessoa\include\pessoa.h
+	<string>
+	<iostream>
+
+1667238597 source:c:\users\arthu\onedrive\documentos\exemplo de aula\arquivopessoa\main.cpp
+	<iostream>
+	<fstream>
+	"Pessoa.h"
+	<vector>
+
